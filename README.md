@@ -1,7 +1,7 @@
 # Half-Life-Legacy-Shadows
 Legacy/WON shadows of Half-Life
 
-Hey everyone, i'm sharing this tutorial for getting old shadows in newer engine builds. (Steampipe and later)
+Sharing this tutorial for getting old shadows in newer engine builds. (Steampipe and later)
 
 There was a assembly hack to enable shadows in Half-Life but it's no longer works in newer engine and crashes the game. The reason is newer engine build have different signature.
 
