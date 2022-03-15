@@ -101,5 +101,3 @@ CVAR_CREATE("cl_shadows", "1", FCVAR_ARCHIVE);
 And compile your SDK.
 
 And there you have it. OG Half-Life Shadows running in latest engine build. Shadows are messy from default so you cannot really improve them at all. Some people like it and want in their mods so this should be useful for you. 
-
-If you see any problem post in comments i'll try my best to help you out.
